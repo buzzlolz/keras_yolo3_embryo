@@ -1,0 +1,1 @@
+D:\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1.bmp 223,278,640,671,0 700,239,1149,649,0

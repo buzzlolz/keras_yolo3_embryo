@@ -1,0 +1,88 @@
+D:/keras-yolo3/result_delete/2018 1207143932-Thaw D+3 (ト).bmp
+D:/keras-yolo3/result_delete/20181023130347-Thaw D+2-1.bmp
+D:/keras-yolo3/result_delete/20181023164552-Thaw D+2-2.bmp
+D:/keras-yolo3/result_delete/20181030110407-(D+3)-1.bmp
+D:/keras-yolo3/result_delete/20181030110622-(D+3)-2.bmp
+D:/keras-yolo3/result_delete/20181030110808-(D+3)-3.bmp
+D:/keras-yolo3/result_delete/20181110072927-Thaw D+5.bmp
+D:/keras-yolo3/result_delete/20181110091733-ET D+5.bmp
+D:/keras-yolo3/result_delete/20181111071651-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20181113080205-Cryo D+3-2.bmp
+D:/keras-yolo3/result_delete/20181113080240-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20181115101403-Thaw D+3.bmp
+D:/keras-yolo3/result_delete/20181115130619-ET D+3.bmp
+D:/keras-yolo3/result_delete/20181115130820-No Cryo D+3.bmp
+D:/keras-yolo3/result_delete/20181116103853-Cryo D+3-2.bmp
+D:/keras-yolo3/result_delete/20181116103920-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20181116103938-Cryo D+3-3.bmp
+D:/keras-yolo3/result_delete/20181120102052-Thaw D+3.bmp
+D:/keras-yolo3/result_delete/20181120130240-ET D+3.bmp
+D:/keras-yolo3/result_delete/20181123153035-ET D+4.bmp
+D:/keras-yolo3/result_delete/20181130101857-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20181130102002-Cryo D+3-2.bmp
+D:/keras-yolo3/result_delete/20181201100953-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20181201101009-Cryo D+3-2.bmp
+D:/keras-yolo3/result_delete/20181201101034-Cryo D+3-3.bmp
+D:/keras-yolo3/result_delete/20181201101106-Cryo D+3-4.bmp
+D:/keras-yolo3/result_delete/20181201102038-Cryo D+3-6.bmp
+D:/keras-yolo3/result_delete/20181201102100-Cryo D+3-5.bmp
+D:/keras-yolo3/result_delete/20181201102113-No Cryo D+3.bmp
+D:/keras-yolo3/result_delete/20181206154336-Thaw D+3.bmp
+D:/keras-yolo3/result_delete/20181207104435-Thaw D+4.bmp
+D:/keras-yolo3/result_delete/20181207175638-ET D+4.bmp
+D:/keras-yolo3/result_delete/20181208074105 ET D+4 ト.bmp
+D:/keras-yolo3/result_delete/20181220123032-Cryo D+3-1 (ト) (2).bmp
+D:/keras-yolo3/result_delete/20181222095652-FET D+2.bmp
+D:/keras-yolo3/result_delete/20181227115034-Thaw D+3-1.bmp
+D:/keras-yolo3/result_delete/20181227115120-Thaw D+3-3.bmp
+D:/keras-yolo3/result_delete/20181228111016-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20181228111308-Cryo D+3-2.bmp
+D:/keras-yolo3/result_delete/20181228111723-Cryo D+3-3.bmp
+D:/keras-yolo3/result_delete/20181228112414-Cryo D+3-4.bmp
+D:/keras-yolo3/result_delete/20181228175124-Culture D+3-1.bmp
+D:/keras-yolo3/result_delete/20181228175146-Culture D+3-2.bmp
+D:/keras-yolo3/result_delete/20181228175227-Culture D+3-3.bmp
+D:/keras-yolo3/result_delete/20181228175258-Culture D+3-4.bmp
+D:/keras-yolo3/result_delete/20181229090036-ET D+5.bmp
+D:/keras-yolo3/result_delete/20181229092312-Cryo D+5-1.bmp
+D:/keras-yolo3/result_delete/20181229092333-Cryo D+5-2.bmp
+D:/keras-yolo3/result_delete/20181230111726-Cryo D+5-1.bmp
+D:/keras-yolo3/result_delete/20181230111745-Cryo D+5-2.bmp
+D:/keras-yolo3/result_delete/20181230111807-Cryo D+5-3.bmp
+D:/keras-yolo3/result_delete/20181230111918-Cryo D+5-4.bmp
+D:/keras-yolo3/result_delete/20181230145145-Cryo D+5-5.bmp
+D:/keras-yolo3/result_delete/20181230145225-Cryo D+5-7.bmp
+D:/keras-yolo3/result_delete/20181230145526-Cryo D+5-6.bmp
+D:/keras-yolo3/result_delete/20181231090833-Cryo D+6-1.bmp
+D:/keras-yolo3/result_delete/20181231090902-Cryo D+6-2.bmp
+D:/keras-yolo3/result_delete/20181231091019-No Cryo D+6.bmp
+D:/keras-yolo3/result_delete/20190103101217-Cryo D+3 (TL).bmp
+D:/keras-yolo3/result_delete/20190105111254-Cryo D+2 (ト).bmp
+D:/keras-yolo3/result_delete/20190110100136-Cryo D+3-1 (ト).bmp
+D:/keras-yolo3/result_delete/20190112080335-Thaw D+3.bmp
+D:/keras-yolo3/result_delete/20190115094306-D+5-PGS1.bmp
+D:/keras-yolo3/result_delete/20190115095012-D+5-PGS3.bmp
+D:/keras-yolo3/result_delete/20190115100044-D+5-PGS2.bmp
+D:/keras-yolo3/result_delete/20190115112921-Cryo D+5-1.bmp
+D:/keras-yolo3/result_delete/20190115112938-Cryo D+5-2.bmp
+D:/keras-yolo3/result_delete/20190115112948-Cryo D+5-3.bmp
+D:/keras-yolo3/result_delete/20190115113549-Cryo D+5-4.bmp
+D:/keras-yolo3/result_delete/20190115113740-Cryo D+5-5.bmp
+D:/keras-yolo3/result_delete/20190115113843-Cryo D+5-6.bmp
+D:/keras-yolo3/result_delete/20190116160343-Thaw D+3-1.bmp
+D:/keras-yolo3/result_delete/20190117095442-Thaw D+3-2.bmp
+D:/keras-yolo3/result_delete/20190117095918-ET D+4-1.bmp
+D:/keras-yolo3/result_delete/20190117102336-Cryo D+3-1(ト).bmp
+D:/keras-yolo3/result_delete/20190117102336-Cryo D+3-3(ト).bmp
+D:/keras-yolo3/result_delete/20190117102337-Cryo D+3-2(ト).bmp
+D:/keras-yolo3/result_delete/20190117102337-Cryo D+5-1(ト).bmp
+D:/keras-yolo3/result_delete/20190119095238-CryoD+5-1 (8-7).bmp
+D:/keras-yolo3/result_delete/20190119095238-CryoD+5-2 (8-8).bmp
+D:/keras-yolo3/result_delete/20190119095238-CryoD+5-3 (8-45).bmp
+D:/keras-yolo3/result_delete/20190124110332-Cryo D+3-1.bmp
+D:/keras-yolo3/result_delete/20190124110356-Cryo D+3-2.bmp
+D:/keras-yolo3/result_delete/PGS-1 20181227104736.bmp
+D:/keras-yolo3/result_delete/PGS-2 20181227105035.bmp
+D:/keras-yolo3/result_delete/PGS-3 20181227110300.bmp
+D:/keras-yolo3/result_delete/PGS-4 20181227110550.bmp
+D:/keras-yolo3/result_delete/PGS-5 (D+6) 20181228.bmp
